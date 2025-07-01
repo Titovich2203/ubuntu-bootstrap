@@ -43,6 +43,8 @@ chmod +x full-setup.sh
 # Lancer le script
 ./full-setup.sh
 
+```
+
 ---
 
 ## 📌 Pré-requis
