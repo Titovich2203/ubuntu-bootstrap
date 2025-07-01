@@ -54,7 +54,7 @@ chmod +x full-setup.sh
 
 ## 🌐 Ports ouverts par défaut
 
-- **SSH** ➜ ton port custom (ex. 2203)
+- **SSH** ➜ ton port custom (ex. 7612)
 - **Portainer** ➜ 9000
 - **Nginx Proxy Manager**
   - 80 ➜ HTTP
